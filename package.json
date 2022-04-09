@@ -12,7 +12,7 @@
     "@babel/polyfill": "^7.0.0",
     "font-awesome": "^4.6.3",
     "jquery": "^3.1.1",
-    "moment": "^2.15.1",
+    "moment": "^2.29.2",
     "san": "^3.7.5",
     "san-router": "^1.1.2"
   },
